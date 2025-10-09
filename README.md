@@ -9,7 +9,7 @@ This is a **ChatGPT prompt** designed to help professionals at any level improve
 
 ## How to Use
 
-1. Copy the full prompt from the `V1_LinkedIn_Profile_Optimizer.md` file.  
+1. Copy the full prompt from the `prompt` file.  
 2. Paste it into **ChatGPT**.  
 3. Follow the instructions section by section, pasting your own LinkedIn text.  
 4. Apply the refined suggestions directly to your **LinkedIn profile**.  
