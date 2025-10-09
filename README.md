@@ -1,4 +1,4 @@
-# LinkedIn Profile Optimization Prompt – V1
+# LinkedIn Advanced Ai Profile Optimization – V1
 <p align="left">
  <img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-logo-With-colour-Background-and-features-ChatGPT-Name-1024x301.png" alt="ChatGPT Logo" width="150"  style="display:inline;">
   &nbsp; &nbsp; 
