@@ -7,6 +7,10 @@ This is a **ChatGPT prompt** designed to help professionals at any level improve
 - **Experience** – quantified achievements  
 - **Skills** – targeted keywords for search visibility  
 
+![LinkedIn Logo](https://example.com/linkedin-logo.png)
+![LinkedIn Prompt Preview](images/prompt-preview.png)
+![LinkedIn Prompt Preview](prompt-preview.png)
+
 ## How to Use
 
 1. Copy the full prompt from the [prompt.txt](./prompt.txt) file and paste it in your **ChatGPT**.  
