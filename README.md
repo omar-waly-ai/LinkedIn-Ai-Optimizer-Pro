@@ -9,7 +9,7 @@ This is a **ChatGPT prompt** designed to help professionals at any level improve
 
 ## How to Use
 
-1. Copy the full prompt from the [prompt.txt](./prompt.txt) file.  
+1. Copy the full prompt from the [prompt.txt](./prompt.txt) file and paste it in your ChatGPT.  
 2. Paste it into **ChatGPT**.  
 3. Follow the instructions section by section, pasting your own LinkedIn text.  
 4. Apply the refined suggestions directly to your **LinkedIn profile**.  
