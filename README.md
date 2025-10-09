@@ -22,7 +22,14 @@ This is a **ChatGPT prompt** designed to help professionals at any level improve
 
 ## License
 
-This repository is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This repository is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+
+- You **must give credit**: “Prompt created by Omar Waly”  
+- You **cannot use this prompt commercially**  
+- You **can share, copy, and modify** for personal or non-commercial purposes  
+
+Full legal text is in the [LICENSE](./LICENSE) file.
+
 
 ---
 
