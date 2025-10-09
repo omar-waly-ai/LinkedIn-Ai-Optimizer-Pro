@@ -1,6 +1,6 @@
 # LinkedIn Profile Optimization Prompt – V1
 <p align="left">
- <img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-logo-With-colour-Background-and-features-ChatGPT-Name-1024x301.png" alt="ChatGPT Logo" width="150"  style="display:inline; margin-right:20px;">>
+ <img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-logo-With-colour-Background-and-features-ChatGPT-Name-1024x301.png" alt="ChatGPT Logo" width="150"  style="display:inline; margin-right:40px;">
  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo" width="160" style="display:inline;">
 </p>
