@@ -1,4 +1,6 @@
 # LinkedIn Profile Optimization Prompt – V1
+![LinkedIn Logo]([images/linkedin-logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png)) ![ChatGPT Logo]([images/chatgpt-logo.png](https://www.internetmatters.org/wp-content/uploads/2025/06/Chat-GPT-logo.webp))
+
 
 This is a **ChatGPT prompt** designed to help professionals at any level improve their **LinkedIn profile visibility, clarity, and impact**. It guides you step-by-step through:
 
