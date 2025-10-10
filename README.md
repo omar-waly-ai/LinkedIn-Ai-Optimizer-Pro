@@ -1,11 +1,23 @@
-# LinkedIn Advanced Ai Profile Optimization – V1
+# LinkedIn Advanced Ai Profile Optimizer V.1
 <p align="left">
- <img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-logo-With-colour-Background-and-features-ChatGPT-Name-1024x301.png" alt="ChatGPT Logo" width="150"  style="display:inline;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png" alt="ChatGPT Logo" width="150">
   &nbsp; &nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo" width="160" style="display:inline;">
 </p>
 
-This is a **ChatGPT prompt** designed to help professionals at any level improve their **LinkedIn profile visibility, clarity, and impact**. It guides you step-by-step through:
+<p align="left">
+  <img src="https://gpng.net/wp-content/uploads/ChatGPT-Logo-With-Text-PNG.png" 
+       alt="ChatGPT Logo" width="170" style="display:inline; vertical-align: bottom;">
+  &nbsp; &nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png" 
+       alt="Gemini Pro" width="150" style="display:inline; vertical-align: bottom;">
+  &nbsp; &nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png" 
+       alt="DeepSeek" width="190" style="display:inline; vertical-align: bottom;">
+</p>
+
+**LinkedIn Advanced AI Profile Optimizer** is a cross-platform prompt that works seamlessly on **ChatGPT, Gemini Pro 2.5, and DeepSeek**. You can use it on your favorite AI platform.
+
+It’s designed to help professionals at any level improve their LinkedIn profile **visibility, clarity, and impact**, guiding you **step-by-step** through the process:
 
 - **Headline** – clarity & impact  
 - **About / Summary** – positioning & value proposition  
@@ -17,8 +29,6 @@ This is a **ChatGPT prompt** designed to help professionals at any level improve
 1. Copy the full prompt from the [prompt.txt](./prompt.txt) file and paste it in your **ChatGPT**.  
 2. Follow the instructions section by section, pasting your own LinkedIn text.  
 3. Apply the refined suggestions directly to your **LinkedIn profile**.  
-
-> ⚠️ This prompt works on your **own LinkedIn account only**. Do **not** use it to edit someone else’s profile.  
 
 ## License
 
