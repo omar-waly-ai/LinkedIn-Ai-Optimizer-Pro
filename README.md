@@ -21,7 +21,7 @@
 
 ## How to Use
 
-1. Click on [prompt.txt](./prompt.txt) file then Copy the full prompt from the file and paste it into your **ChatGPT** or **DeepSeek**.  
+1. **Click on [prompt.txt](./prompt.txt) ** file then Copy the full prompt from the file and paste it into your **ChatGPT** or **DeepSeek**.  
 2. Follow the instructions section by section as the fremwake will guide you.  
 3. Apply the refined suggestions directly to your **LinkedIn profile**.
 4. Regularly check the **Analytics section** in your profile to see the changes in the visibility reports.
