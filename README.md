@@ -12,7 +12,7 @@
        alt="DeepSeek" width="190" style="display:inline; vertical-align: bottom;">
 </p>
 
-**LinkedIn Advanced AI Profile Optimizer** is a cross-platform prompt that works seamlessly on **ChatGPT and DeepSeek**. You can use it on your favorite AI platform.
+**LinkedIn AI Optimizer Pro ** A professional-grade, **portable prompt system** that transforms any AI chat into a LinkedIn optimization expert. Works seamlessly on **ChatGPT** and **DeepSeek**. This isn't just another chatbot - it's a complete 8-step framework built for maximum profile impact
 
 It’s designed to help professionals at any level improve their LinkedIn profile **visibility, clarity, and impact**, guiding you **step-by-step** through the process:
 
@@ -23,9 +23,10 @@ It’s designed to help professionals at any level improve their LinkedIn profil
 
 ## How to Use
 
-1. Copy the full prompt from the [prompt.txt](./prompt.txt) file and paste it in your **ChatGPT**.  
-2. Follow the instructions section by section, pasting your own LinkedIn text.  
-3. Apply the refined suggestions directly to your **LinkedIn profile**.  
+1. Click on [prompt.txt](./prompt.txt) file then Copy the full prompt from the file and paste it into your **ChatGPT** or **DeepSeek**.  
+2. Follow the instructions section by section as the fremwake will guide you.  
+3. Apply the refined suggestions directly to your **LinkedIn profile**.
+4. Regularly check the **Analytics section** in your profile to see the changes in the visibility reports.
 
 ## License
 
