@@ -12,7 +12,7 @@
        alt="DeepSeek" width="190" style="display:inline; vertical-align: bottom;">
 </p>
 
-**LinkedIn Advanced AI Profile Optimizer** is a cross-platform prompt that works seamlessly on **ChatGPT, Gemini Pro 2.5, and DeepSeek**. You can use it on your favorite AI platform.
+**LinkedIn Advanced AI Profile Optimizer** is a cross-platform prompt that works seamlessly on **ChatGPT and DeepSeek**. You can use it on your favorite AI platform.
 
 It’s designed to help professionals at any level improve their LinkedIn profile **visibility, clarity, and impact**, guiding you **step-by-step** through the process:
 
