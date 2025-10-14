@@ -14,8 +14,6 @@
 
 **LinkedIn AI Optimizer Pro ** A professional-grade, **portable prompt system** that transforms any AI chat into a LinkedIn optimization expert. Works seamlessly on **ChatGPT** and **DeepSeek**. This isn't just another chatbot - it's a complete 8-step framework built for maximum profile impact
 
-It’s designed to help professionals at any level improve their LinkedIn profile **visibility, clarity, and impact**, guiding you **step-by-step** through the process:
-
 - **Headline** – clarity & impact  
 - **About / Summary** – positioning & value proposition  
 - **Experience** – quantified achievements  
