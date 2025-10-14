@@ -1,4 +1,4 @@
-# LinkedIn Advanced Ai Profile Optimizer V.1
+# LinkedIn Advanced Ai Optimizer PRo
 <p align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png" alt="ChatGPT Logo" width="150">
   &nbsp; &nbsp; 
@@ -7,9 +7,6 @@
 <p align="left">
   <img src="https://gpng.net/wp-content/uploads/ChatGPT-Logo-With-Text-PNG.png" 
        alt="ChatGPT Logo" width="170" style="display:inline; vertical-align: bottom;">
-  &nbsp; &nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png" 
-       alt="Gemini Pro" width="150" style="display:inline; vertical-align: bottom;">
   &nbsp; &nbsp; 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png" 
        alt="DeepSeek" width="190" style="display:inline; vertical-align: bottom;">
