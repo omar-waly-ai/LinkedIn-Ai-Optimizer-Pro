@@ -29,10 +29,9 @@ Anyone wanting data-driven LinkedIn improvements
 No installations, no subscriptions - just paste and optimize.
 
 
-##⚡ How It Works
+## ⚡ How It Works
 Paste this prompt into any AI chat (ChatGPT, Claude, Gemini, etc.) and get:
 8-Step Optimization Sequence:
-
 Headline Section - Craft attention-grabbing headlines with optimal keyword structure
 About Section - Transform your summary into a compelling narrative
 Experience Section - Optimize job descriptions and extract key skills
