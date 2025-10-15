@@ -12,7 +12,7 @@
        alt="DeepSeek" width="190" style="display:inline; vertical-align: bottom;">
 </p>
 
-**LinkedIn AI Optimizer Pro ** A professional-grade, **portable prompt system** that transforms any AI chat into a LinkedIn optimization expert. Works seamlessly on **ChatGPT** and **DeepSeek**. This isn't just another chatbot - it's a complete 8-step framework built for maximum profile impact
+**LinkedIn AI Optimizer Pro** A professional-grade, **portable prompt system** that transforms any AI chat into a LinkedIn optimization expert. Works seamlessly on **ChatGPT** and **DeepSeek**. This isn't just another chatbot - it's a complete 8-step framework built for maximum profile impact
 
 ## How to Use
 
