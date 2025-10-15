@@ -32,14 +32,14 @@
 ## ⚡ How It Works
 Paste this prompt into any AI chat (ChatGPT, Claude, Gemini, etc.) and get:
 8-Step Optimization Sequence:
-Headline Section - Craft attention-grabbing headlines with optimal keyword structure
-About Section - Transform your summary into a compelling narrative
-Experience Section - Optimize job descriptions and extract key skills
-Skills Section - Identify missing skills and industry-specific capabilities
-Featured Section - Strategic recommendations for your portfolio showcase
-Open to Work - Smart job targeting and recruiter signaling
-Licenses & Certifications - LinkedIn Learning certification recommendations
-Activity Strategy - Industry-specific content and engagement topics
+- Headline Section - Craft attention-grabbing headlines with optimal keyword structure
+- About Section - Transform your summary into a compelling narrative
+- Experience Section - Optimize job descriptions and extract key skills
+- Skills Section - Identify missing skills and industry-specific capabilities
+- Featured Section - Strategic recommendations for your portfolio showcase
+- Open to Work - Smart job targeting and recruiter signaling
+- Licenses & Certifications - LinkedIn Learning certification recommendations
+- Activity Strategy - Industry-specific content and engagement topics
 
 ## License
 
