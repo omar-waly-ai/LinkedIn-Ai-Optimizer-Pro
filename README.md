@@ -30,7 +30,7 @@
 
 
 ## ⚡ How It Works
-Paste this prompt into any AI chat (ChatGPT, Claude, Gemini, etc.) and get:
+Paste this prompt into any AI chat (ChatGPT, DeepSeeK, Gemini, etc.) and get:
 8-Step Optimization Sequence:
 - Headline Section - Craft attention-grabbing headlines with optimal keyword structure
 - About Section - Transform your summary into a compelling narrative
