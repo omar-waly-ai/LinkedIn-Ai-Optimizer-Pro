@@ -22,11 +22,11 @@
 4. Regularly check the **Analytics section** in your profile to see the changes in the visibility reports.
 
 ## 💡 Perfect For
-Job seekers optimizing their profiles
-Professionals seeking better visibility
-Career changers rebranding their presence
-Anyone wanting data-driven LinkedIn improvements
-No installations, no subscriptions - just paste and optimize.
+- Job seekers optimizing their profiles
+- Professionals seeking better visibility
+- Career changers rebranding their presence
+- Anyone wanting data-driven LinkedIn improvements
+- No installations, no subscriptions - just paste and optimize.
 
 
 ## ⚡ How It Works
