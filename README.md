@@ -14,11 +14,6 @@
 
 **LinkedIn AI Optimizer Pro ** A professional-grade, **portable prompt system** that transforms any AI chat into a LinkedIn optimization expert. Works seamlessly on **ChatGPT** and **DeepSeek**. This isn't just another chatbot - it's a complete 8-step framework built for maximum profile impact
 
-- **Headline** – clarity & impact  
-- **About / Summary** – positioning & value proposition  
-- **Experience** – quantified achievements  
-- **Skills** – targeted keywords for search visibility  
-
 ## How to Use
 
 1. **Click on [prompt.txt](./prompt.txt)** file then Copy the full prompt from the file and paste it into your **ChatGPT** or **DeepSeek**.  
